@@ -11,6 +11,10 @@ Coordinamos estos ciclos:
 
 - Agustín Alesso (Univ. Nac. Litoral) 
 
+- Alu Tudela (INTA Alto Valle, Río Negro)
+
+- Bruno Pugliese (INTA IPAVE-Córdoba)
+
 _Este repositorio se generó como ejercicio práctico en vivo en el primer webinar, todas las presentaciones del ciclo quedarán almacenadas en el mismo._
 
 ## Webinar 1: Git & GitHub para proyectos colaborativos en R por Andrea Gomez Vargas 
