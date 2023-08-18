@@ -44,3 +44,5 @@ Les dejamos la presentación:
 
 _Es Ing. Agrónomo de la Fac. de Ciencias Agrarias (UNL) y Dr. en Ciencias Agrarias (UNC). Actualmente se desempeña como Prof. Adjunto de la Cátedra de Estadística de la FCA-UNL e Investigador Asistente (CONICET). Trabaja en el área de estadística aplicada a las ciencias agrarias con énfasis en métodos de estadística espacial aplicados a datos de agricultura de precisión. Enseña cursos de grado y posgrado utilizando R. Es usuario de R, desde la versión 2.10.x (o por ahi?, antes de Rstudio!) y le interesa la aplicación de herramientas de investigación reproducible como R para el procesamiento, análisis y reporte de resultados._
 
+Les dejamos todo el material de este webinar
+-[Material](https://github.com/RenINTA/Porfinviernes/tree/main/mapas_con_R)
