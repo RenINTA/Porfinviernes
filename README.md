@@ -40,3 +40,7 @@ Les dejamos la presentación:
 #les dejamos un resumen de lo visto hasta ahora y al final una encuesta para que nos envíen sus propuestas de futuros temas. gracias!!!
 - [Encuesta](https://github.com/RenINTA/Porfinviernes/blob/main/Paquete%20agromet%20-%207%20de%20julio/INTRO%20encuesta.pdf)
 
+## Webinar 3: Haciendo mapas con R por Agustín Alesso
+
+_Es Ing. Agrónomo de la Fac. de Ciencias Agrarias (UNL) y Dr. en Ciencias Agrarias (UNC). Actualmente se desempeña como Prof. Adjunto de la Cátedra de Estadística de la FCA-UNL e Investigador Asistente (CONICET). Trabaja en el área de estadística aplicada a las ciencias agrarias con énfasis en métodos de estadística espacial aplicados a datos de agricultura de precisión. Enseña cursos de grado y posgrado utilizando R. Es usuario de R, desde la versión 2.10.x (o por ahi?, antes de Rstudio!) y le interesa la aplicación de herramientas de investigación reproducible como R para el procesamiento, análisis y reporte de resultados._
+
