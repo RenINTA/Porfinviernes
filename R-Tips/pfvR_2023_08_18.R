@@ -1,12 +1,12 @@
 
 # Este R-tip está relacionado con el uso de series temporales en donde tenemos datos
-#diarios de una variable y queremos analizar su variabilidad mensual.
-# es decir, nos podemos preguntar: ¿a lo largo de un año como se han comportado los 
+#diarios de una variable y queremos analizar su variabilidad.
+# es decir, nos podemos preguntar: ¿a lo largo de los años como se han comportado los 
 #valores diarios de mi variable? y de esta forma poder detectar valores extremos,
 # la variabilidad media anual de dicha variable.
 
 # El tema es que para este tipo de gráficos puede ser algo complicado trabajar con las 
-#fechas de forma tal que podamos tener la en el eje horizontal los meses en el vertical 
+#fechas de forma tal que podamos tener en el eje horizontal los meses y en el vertical 
 # la variable y cada curva sea un año.
 
 # Es por ello que les traemos este R-tips para facilitarles la búsqueda.
@@ -38,6 +38,7 @@ datos %>%
 
   #le agregamos las curvas de cuartiles del paquete MATRIX, 
   # quizas les pedirá actualizar!!
+  
   
   geom_quantile(method = "rqss", quantiles=0.95,lambda=20,size=1,colour= "red")+
   geom_quantile(method = "rqss", quantiles=0.05,lambda=20,size=1,colour= "red")+
